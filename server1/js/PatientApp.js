@@ -1,9 +1,7 @@
 /**
  * PatientApp class
  * AI acknowledgement: ChatGPT assisted with:
- * 1. Rewriting the event listeners because my code didn't work somehow
- * 2. Extracting strings into ./lang/en/strings.js
- * 3. Generating this statement
+ * 1. Extracting strings into ./lang/en/strings.js
  */
 class PatientApp {
   constructor() {
