@@ -1,3 +1,6 @@
+/*
+ChatGPT (https://chat.openai.com/) was used as a learning and debugging assistant.
+*/
 import "dotenv/config";
 import { Config } from "./Config.js";
 import { DatabaseService } from "./DatabaseService.js";
